@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="pyd" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="pyd">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/usr/pyd/pythonfile/superpoint_graph" local="$PROJECT_DIR$/../superpoint_graph_remote" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

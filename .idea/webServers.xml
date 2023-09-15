@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83497176-8806-409d-b0ba-2506a8a0b022" name="pyd" url="http://runfifa.tpddns.cn">
+        <fileTransfer accessType="SFTP" host="runfifa.tpddns.cn" port="9222" sshConfigId="19e215d6-22c3-4fb0-a031-3268dc9344a1" sshConfig="srv@runfifa.tpddns.cn:9222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="runfifa.tpddns.cn" id="19e215d6-22c3-4fb0-a031-3268dc9344a1" port="9222" nameFormat="DESCRIPTIVE" username="srv" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
